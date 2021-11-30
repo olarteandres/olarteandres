@@ -24,8 +24,8 @@
   
 ### How to reach me 📫:
    <p>
-      <a href="https://www.linkedin.com/in/olarteandres/">
-         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Natalia" height="40" width="40">
+      <a href="https://www.linkedin.com/in/andres-e-olarte/">
+         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Andres" height="40" width="40">
       </a> 
  <a align='right' href="mailto:andresoalrte31@gmail.com">
          <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40" width="40"/>
