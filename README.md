@@ -1,7 +1,7 @@
-### Hi there 👋 I'm Natalia, FullStack Developer
+### Hi there 👋 I'm Andres, FullStack Developer
 
 
-- 🌱 I’m currently learning TypeScript and Angular!
+- 🌱 I’m currently learning TypeScript!
 
 
 - Tech Skills!
@@ -24,10 +24,10 @@
   
 ### How to reach me 📫:
    <p>
-      <a href="https://www.linkedin.com/in/natalia-maiparsi/">
+      <a href="https://www.linkedin.com/in/olarteandres/">
          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Natalia" height="40" width="40">
       </a> 
- <a align='right' href="mailto:nmaiparsi@gmail.com">
+ <a align='right' href="mailto:andresoalrte31@gmail.com">
          <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40" width="40"/>
       </a>  
    </p>
