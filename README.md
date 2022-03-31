@@ -12,8 +12,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40"
-  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F808903%2Fscreenshots%2F3831862%2Fdribbble_szablon__1_1.png&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F3831862-Nest-JS-The-official-logo&tbnid=S5OMX9cgnRKM_M&vet=12ahUKEwj09ffYy_D2AhVsSLgEHatVBtcQMygCegUIARC6AQ..i&docid=JL8ovrl6O96PpM&w=800&h=600&q=logo%20nest%20js&hl=es-419&ved=2ahUKEwj09ffYy_D2AhVsSLgEHatVBtcQMygCegUIARC6AQ" alt="postgresql" width="40"     
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40     
   height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  
