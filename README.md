@@ -1,9 +1,6 @@
 ### Hi there 👋 I'm Andres, FullStack Developer
 
 
-- 🌱 I’m currently learning TypeScript!
-
-
 - Tech Skills!
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
